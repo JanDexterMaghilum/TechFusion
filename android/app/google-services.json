@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635809748138",
+    "project_id": "maghilum-flutter-bsit-3c",
+    "storage_bucket": "maghilum-flutter-bsit-3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635809748138:android:34469f7787aef23c3eacd3",
+        "android_client_info": {
+          "package_name": "com.example.birthtrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ23QhhainBkClUrrmJXwgewIaBXnPy68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635809748138:android:32c7dc7ce43dfee63eacd3",
+        "android_client_info": {
+          "package_name": "com.example.jandemaghilum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ23QhhainBkClUrrmJXwgewIaBXnPy68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
